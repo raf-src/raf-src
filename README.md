@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello, I'm Raf Joseph (`raf-src`)
 
-<!--
-**raf-src/raf-src** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer in Training | Building responsive web apps and data-driven projects with **HTML5**, **CSS3**, **Bootstrap 5**, **JavaScript**, **Python**, and **SQL**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Project: Cloud Runner
+
+Responsive front-end sci-fi film promotional website built with HTML5, CSS3, and Bootstrap 5.
+
+[![Cloud Runner Multi Device UI](https://raw.githubusercontent.com/raf-src/cloud-runner-film-promo/main/assets/doc-images/cloud-runner-multi-device-ui-image-title.jpeg)](https://raf-src.github.io/cloud-runner-film-promo/)
+
+* **Live Site:** [raf-src.github.io/cloud-runner-film-promo](https://raf-src.github.io/cloud-runner-film-promo/)
+* **Repository:** [github.com/raf-src/cloud-runner-film-promo](https://github.com/raf-src/cloud-runner-film-promo)
+
+---
+
+### Connect
+* **LinkedIn:** [linkedin.com/in/raf-joseph](https://www.linkedin.com/in/raf-joseph/)
